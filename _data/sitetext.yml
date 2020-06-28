@@ -6,17 +6,17 @@ header:
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Nous vous accompagnons dans vos projets"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Conception"
+        desc: "Avec nos workshops d'idéation, et nos conception numérique, visualisez votre projet avant de le réaliser"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Architecture"
+        desc: "Une experience forte en architecture d'intérieur et d'extérieur à votre disposition"
         icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Réalisation"
+        desc: "Nous mettons en vie vos projets, clé en main, et en nous occupons de tous"
         icon: fab fa-markdown
 
 portfolio:
@@ -27,34 +27,34 @@ portfolio:
 
 timeline:
     title: "About" 
-    text: "Lorem ipsum timeline"
+    text: "Un processus étape par étape, pour un succès assuré"
     section: timeline
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Rencontrons nous"
+        year: "Prenons RDV"
+        desc: "Bienvenu sur notre site! Nous somme impatient d'entendre vos rêves pour vous aider à les réaliser"
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Démarrage du projet"
+        year: "Première réunion"
+        desc: "Définissons ensemble vos critères, vos besoins, vos contraintes ansi qu'un agenda souhaité"
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Présentation"
+        year: "Dans un mois"
+        desc: "On vous présente une maquette qui vous permettra de vous projet dans votre projet"
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Démarrage du chantier"
+        year: "Dans 2 mois"
+        desc: "Ca y est. Les travaux démarrent! On suit tout pour vous et on vous tient informés :)"
         image: assets/img/timeline/4.jpg
         alt: 
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Livraison de <br> votre <br> projet!"
 
 about:
     title: "About Us"
@@ -80,13 +80,13 @@ clients:
         logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Notre équipe de choc"
+    text: "Une expertise multidisciplinaire."
+    subtext: Notre équipe a plusieurs disaine d'année d'expérience. Nous sommes des pationnés de design et d'architecture. Nous serons ravis de vous aider à réaliser vos projets.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Mohammed"
+        role: "Architecte"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -95,8 +95,8 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Fadila"
+        role: "Décoratrice d'intérieur"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -105,8 +105,8 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Manel"
+        role: "Créatrive & Designer"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -117,8 +117,8 @@ team:
             icon: fab fa-linkedin-in
           
 contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contact nous"
+    text: "Votre agence à Paris et Montgeron"
     section: contact
     
 footer:
