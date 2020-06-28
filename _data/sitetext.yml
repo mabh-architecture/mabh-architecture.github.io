@@ -87,7 +87,7 @@ team:
     people:
       - name: "Mohammed"
         role: "Architecte"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/mohammed.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -97,7 +97,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Fadila"
         role: "Décoratrice d'intérieur"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
