@@ -107,7 +107,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Manel"
         role: "Créatrive & Designer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/manel.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
