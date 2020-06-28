@@ -1,7 +1,7 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Bienvenue chez MABH Architecture!
+    text: Nous sommes impatients de vous rencontrer
+    button: Nos services
     buttonlink: "#services"
 
 services:
